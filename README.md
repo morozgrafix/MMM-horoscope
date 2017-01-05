@@ -1,5 +1,5 @@
 # MMM-horoscope
-Horoscope Module for MagicMirror² v.1.0.0
+Horoscope Module for MagicMirror² v.0.1.0
 
 
 This is a module for [MagicMirror²](https://github.com/MichMich/MagicMirror) that adds daily horoscope pulled from the [Yahoo Style Horoscopes](https://www.yahoo.com/style/horoscope/). API endpoint used for this module is not officially supported and may break at any time.
