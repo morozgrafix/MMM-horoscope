@@ -1,6 +1,6 @@
 {
   "name": "mmm-horoscope",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Daily Horoscope Module for MagicMirror2",
   "repository": {
     "type": "git",
