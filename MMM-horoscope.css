@@ -20,7 +20,7 @@
   font-weight: bold;
   padding: 0;
   margin: 0;
-  background-color: #aaa;
+  background-color: #ccc;
   color: #000;
   border-radius: 15%;  /* 50% for a circle */
   -webkit-font-smoothing: antialiased;
@@ -51,7 +51,7 @@
 /* SVG Zodiac Icons */
 
 .MMM-horoscope .zodiac-icon {
-  background-color: #CCC;
+  background-color: #ccc;
   width: 52px;
   height: 52px;
   position: absolute;
