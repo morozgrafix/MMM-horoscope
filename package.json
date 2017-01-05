@@ -1,0 +1,23 @@
+{
+  "name": "mmm-horoscope",
+  "version": "1.0.0",
+  "description": "Daily Horoscope Module for MagicMirror2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morozgrafix/MMM-horoscope.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Horoscope"
+  ],
+  "author": "Sergey Morozov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morozgrafix/MMM-horoscope/issues"
+  },
+  "homepage": "https://github.com/morozgrafix/MMM-horoscope#readme",
+  "dependencies": {
+    "moment": "latest",
+    "request": "^2.78.0"
+  }
+}
