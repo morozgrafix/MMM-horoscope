@@ -2,10 +2,10 @@ Module.register("MMM-horoscope",{
 	defaults: {
 		sign: "aries",
 		maxWidth: "400px", // maximum width of the module in px, %, em
-		timeShift: 5 * 60 * 60 * 1000, // shift clock in milliseconds to start showing next day horoscope at 7pm (24 - 19 = 5)
 		updateInterval: 1 * 60 * 60 * 1000, // updates every hour
-		initialLoadDelay: 0,
+		timeShift: 5 * 60 * 60 * 1000, // shift clock in milliseconds to start showing next day horoscope at 7pm (24 - 19 = 5)
 		useTextIcon: true,
+		initialLoadDelay: 0,
 		animationSpeed: 2000,
 		zodiacTable: {
 			"aries": {
