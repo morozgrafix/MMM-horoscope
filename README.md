@@ -30,19 +30,21 @@ modules: [
 ]
 ````
 
+Since this module is using `node helper` you would need to **restart your MagicMirror** electron app in order for it to be activated.
+
 ## Configuration options
 
 <table width="100%">
   <!-- why, markdown... -->
   <thead>
     <tr>
-      <th>Option</th>      
+      <th>Option</th>
       <th width="100%">Description</th>
     </tr>
   <thead>
   <tbody>
     <tr>
-      <td><code>sign</code></td>      
+      <td><code>sign</code></td>
       <td>Zodiac sign for daily horoscope. (String)<br>
         <br>This value is <b>REQUIRED</b><br>
         <br><b>Possible values:</b> <code>aries</code>, <code>taurus</code>, <code>gemini</code>, <code>cancer</code>, <code>leo</code>, <code>virgo</code>, <code>libra</code>, <code>scorpio</code>, <code>sagittarius</code>, <code>capricorn</code>,<code>aquarius</code>,<code>pisces</code>
