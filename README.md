@@ -8,10 +8,19 @@ This is a module for [MagicMirror²](https://github.com/MichMich/MagicMirror) th
 
 ## Dependencies
 
-npm modules (should already be available with your installation):
+npm modules (should already be available with your MM installation):
 
 - request
 - moment
+
+## Installation steps
+
+```
+cd ~/MagicMirror/modules
+git clone https://github.com/morozgrafix/MMM-horoscope.git
+cd MMM-horoscope
+npm install
+```
 
 ## Using the module
 
